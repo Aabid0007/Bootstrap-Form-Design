@@ -1,0 +1,30 @@
+@media only screen and (max-width:767px) {
+  .col-md-10.d-flex.justify-content-end.gap-2.my-3.py-3 {
+    width: 100%;
+  }
+  .btn.btn-primary.left{
+    font-size: 14px;
+  }
+  .form-lebel{
+    font-size: 13px;
+  }
+}
+@media only screen and (max-width:420px) {
+.btn.btn-primary.left.rounded-4 {
+    padding: 7px 7px;
+    }
+.btn.btn-primary.left{
+      font-size: 12px;
+    }
+.btn.btn-light.rounded-4{
+  padding: 7px 7px;
+}
+.btn.btn-light{
+  font-size: 12px;
+}
+}
+@media only screen and(max-width:364px) {
+  .form-check-label.me-1{
+    font-size: 10px
+  }
+}

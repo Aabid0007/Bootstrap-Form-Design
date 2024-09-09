@@ -1,0 +1,189 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'DM Sans', sans-serif;
+}
+body{
+    font-family: 'DM Sans', sans-serif;
+}
+/* col-left-content */
+i{
+    color: #4318FF;
+}
+label::after{
+    content: "*";
+    color: red;
+}
+.col-md-5.left-content.py-3 {
+    background: #FFF;
+}
+.upload.card.align-items-center.py-3{
+    border: 1px dashed #B2BAD0;
+    background: var(--secondary-grey-100, #FAFCFE);
+    gap: 2px;
+}
+label{
+    font-size: 13px;
+    font-weight: 500;
+}
+#placeholder{
+    color:#083cd8 ;
+}
+/* col-right-content */
+.heading.my-3::after{
+    display: none;
+}
+#exampleColorInput:focus{
+    box-shadow: none;
+    border-color: #4318FF;
+}
+.alert.alert-warning {
+  font-size: 14px;
+  font-weight: 400;
+}
+.form-control.col-md-1.disabled_column {
+    width: 70%;
+    text-align: center;
+}
+.col-md-5.right-content.py-3{
+    border-radius: 22px;
+    background: #FFF;
+}
+.col-md-10.d-flex.justify-content-end.gap-2.my-3.py-3{
+    border-radius: 22px;
+}
+.form-control.py-2::placeholder{
+    color: #949DB9;
+    font-size: 14px;
+    font-weight: 500;
+}
+span{
+    font-size: 12px;
+    font-weight: 500;
+    color: #949DB9;
+}
+p{
+    font-size: 12px;
+    font-weight: 500;
+}
+.paragraph{
+    margin-bottom: 0;
+  }
+.heading{
+    color: #2B3674;
+    font-size: 24px;
+    font-weight: 700;
+}
+.form-floating{
+    color: #949DB9;
+    font-size: 14px;
+    font-weight: 400;
+}
+#customRange1::-moz-range-thumb{
+    background-color: #4318FF;
+    box-shadow: none;
+}
+#inlineRadio:checked{
+    background-color: #4318FF;
+    border-radius: solid 2px #4318FF;
+    box-shadow: none;
+}
+#inlineCheckbox:checked{
+    background-color: #4318FF;
+    border-color: #4318FF; 
+}
+.form-control.py-2.rounded-4:focus{
+    border-radius: 16px;
+    border: 1px solid #4318FF;
+    box-shadow: none;
+}
+#autoSizingSelect:focus{
+    border-radius: 16px;
+    border: 1px solid #4318FF; 
+}
+.form-label{
+    color: #2B3674;
+    font-size: 14px;
+    font-weight: 500;
+}
+.form-check-input:checked {
+    background-color:#dd0a65;
+    border-color: #0d6efd;
+}
+#inlineRadio:focus:focus-visible{
+    box-shadow: none;
+    border-color: #A1A9C2;
+}
+#inlineCheckbox:focus{
+    box-shadow: none;
+    border-color: #A1A9C2;
+}
+.form-check-label::after{
+    display: none;
+}
+.form-control.col-md-1.disabled_column.rounded-4 {
+    background-color: #fff;
+    color:#2B3674;
+}
+#autoSizingSelect:focus{
+    box-shadow: none;
+}
+.form-check-label{
+   color:#2B3674;
+}
+.form-group.form-select {
+    color: #949DB9;
+    font-size: 14px;
+    font-weight: 400;
+}
+#Date\ of\ Birth{
+    color: #949DB9;
+    font-size: 14px;
+    font-weight: 400;
+}
+#exampleFormControlInput1{
+    font-size: 14px;
+    font-weight: 400;
+}
+#Mobile\ Number{
+    font-size: 14px;
+    font-weight: 400;
+}
+#inputAddress{
+    font-size: 14px;
+    font-weight: 400;
+}
+.form-control.py-2{
+    font-size: 14px;
+    font-weight: 400;
+}
+.form-label.form::after{
+    display: none;
+}
+.btn.btn-light{
+    font-size: 15px;
+    font-weight: 700;
+    background-color: #FAF9FF;
+}
+.btn.btn-primary.left{
+    font-size: 15px;
+    font-weight: 700;
+    background-color: #4318FF;
+    padding: 10px 13px;
+}
+.form-check.form-check-inline.me-1 ::after{
+    display: none;
+}
+.textarea::after{
+    display: none;
+}
+/* last */
+.col-md-10.d-flex.justify-content-end.gap-2.my-3.py-3 {
+    width: 85%;
+}
+/* .btn.btn-light.rounded-4:hover{
+    background-color: #FAF9FF;
+    border-color: #FAF9FF;
+} */
+
+
